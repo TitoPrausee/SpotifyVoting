@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Spotifyauswahlseite",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitoPrausee/SpotifyVoting.git"
+  },
+  "keywords": [
+    "Spotify"
+  ],
+  "author": "Tito Prause",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TitoPrausee/SpotifyVoting/issues"
+  },
+  "homepage": "https://github.com/TitoPrausee/SpotifyVoting#readme"
+}
